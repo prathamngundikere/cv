@@ -1,0 +1,15 @@
+title: PRATHAM N GUNDIKERE CV
+description: Machine Learning Engineer CV
+url: /cv
+baseurl: https://prathamngundikere.github.io
+theme_skin: blue
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+    - jekyll-minifier
+
+exclude:
+  - docker-compose.yml
