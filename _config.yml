@@ -1,7 +1,7 @@
 title: PRATHAM N GUNDIKERE CV
 description: Machine Learning Engineer CV
-url: /cv
-baseurl: https://prathamngundikere.github.io
+url: https://prathamngundikere.github.io
+baseurl: /cv
 theme_skin: blue
 
 sass:
