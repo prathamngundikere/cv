@@ -83,38 +83,48 @@ projects:
 
 # Certification
 certification:
-  - Advanced Learning Algorithms
-Issued by DeepLearning.AI, Aug 2025
-Credential ID: L9QGWZCF54BB
-Skills: TensorFlow, Machine Learning, Machine Learning Algorithms, Supervised Learning, Logistic Regression, Linear Regression
-Machine Learning Specialization
-Issued by Stanford Online, Aug 2025
-Credential ID: LPZ8Q0YQ22WF
-Skills: Machine Learning Algorithms, Machine Learning, Supervised Learning, Unsupervised Learning, TensorFlow
-Supervised Machine Learning: Regression and Classification
-Issued by DeepLearning.AI, Aug 2025
-Credential ID: UGX3B249CVAC
-Skills: Machine Learning, Matplotlib, Logistic Regression, Supervised Learning, TensorFlow, Linear Regression, Machine Learning Algorithms, NumPy, Python
-Unsupervised Learning, Recommenders, Reinforcement Learning
-Issued by DeepLearning.AI, Aug 2025
-Credential ID: Z7MW7QHZU3MQ
-Skills: Machine Learning Algorithms, Machine Learning, Unsupervised Learning
-Deloitte Australia - Cyber Job Simulation
-Issued by Forage, Jul 2025
-Credential ID: hTmsCgokAhwqL5n5t
-Skills: Log Interpretation, Computer Networks, Web Security
-Deloitte Australia - Data Analytics Job Simulation
-Issued by Forage, Jul 2025
-Credential ID: XkWbKjmmrmLq4uKXz
-Deloitte Australia - Technology Job Simulation
-Issued by Forage, Jul 2025
-Credential ID: NHciCZHiXhZ8tR4uz
-Skills: Data Structures
-Introduction to LLM
-Issued by Google, Feb 2025
-Credential ID: 14109053
-Skills: NumPy, Python
-The Complete Android 14 & Kotlin Development Masterclass
-Issued by Udemy, Jan 2025
-Credential ID: 0004
-Skills: Android SDK, Android Jetpack, Android, Room Database, Firebase, Kotlin Coroutines, Android Studio, Databases, Android Development, MVVM, Kotlin
+  - title: Advanced Learning Algorithms
+    issuer: DeepLearning.AI
+    issued: Aug 2025
+    credential_id: L9QGWZCF54BB
+    skills: TensorFlow, Machine Learning, Machine Learning Algorithms, Supervised Learning, Logistic Regression, Linear Regression
+  - title: Machine Learning Specialization
+    issuer: Stanford Online
+    issued: Aug 2025
+    credential_id: LPZ8Q0YQ22WF
+    skills: Machine Learning Algorithms, Machine Learning, Supervised Learning, Unsupervised Learning, TensorFlow
+  - title: Supervised Machine Learning: Regression and Classification
+    issuer: DeepLearning.AI
+    issued: Aug 2025
+    credential_id: UGX3B249CVAC
+    skills: Machine Learning, Matplotlib, Logistic Regression, Supervised Learning, TensorFlow, Linear Regression, Machine Learning Algorithms, NumPy, Python
+  - title: Unsupervised Learning, Recommenders, Reinforcement Learning
+    issuer: DeepLearning.AI
+    issued: Aug 2025
+    credential_id: Z7MW7QHZU3MQ
+    skills: Machine Learning Algorithms, Machine Learning, Unsupervised Learning
+  - title: Deloitte Australia - Cyber Job Simulation
+    issuer: Forage
+    issued: Jul 2025
+    credential_id: hTmsCgokAhwqL5n5t
+    skills: Log Interpretation, Computer Networks, Web Security
+  - title: Deloitte Australia - Data Analytics Job Simulation
+    issuer: Forage
+    issued: Jul 2025
+    credential_id: XkWbKjmmrmLq4uKXz
+    skills: []
+  - title: Deloitte Australia - Technology Job Simulation
+    issuer: Forage
+    issued: Jul 2025
+    credential_id: NHciCZHiXhZ8tR4uz
+    skills: Data Structures
+  - title: Introduction to LLM
+    issuer: Google
+    issued: Feb 2025
+    credential_id: 14109053
+    skills: NumPy, Python
+  - title: The Complete Android 14 & Kotlin Development Masterclass
+    issuer: Udemy
+    issued: Jan 2025
+    credential_id: 0004
+    skills: Android SDK, Android Jetpack, Android, Room Database, Firebase, Kotlin Coroutines, Android Studio, Databases, Android Development, MVVM, Kotlin
