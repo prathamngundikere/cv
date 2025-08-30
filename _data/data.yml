@@ -17,92 +17,104 @@ languages:
   - idiom: Hindi
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BE in Computer Science Engineering
+    time: 2022-2026
+    university: Vijaya Vittala Institute of Technology
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - Room Database
+      - Supabase
+      - Firebase
   - category: Frontend
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - React.js 
+      - HTML / CSS / JavaScript
+      - Jetpack Compose (Android UI)
+  - category: Programming languages
     skill:
-      - Docker
-      - Kubernetes 
+      - Kotlin
+      - Python
+      - JavaScript
+  - category: Machine Learning & AI 
+    skill:
+      - Tensorflow
+      - Machine Learning Algorithm
+      - Supervised Learning
+      - Unsupervised Learning
+      - Logistic Regression
+      - Linear Regression
+  - category: Mobile Development 
+    skill: 
+      - Android SDK 
+      - Android Jetpack
+      - Android Studio
+      - MVVM Architecture
+      - Kotlin Coroutines
+  - category: DevOps & Tools
+    skill: 
+      - Git 
+      - Computer Networks 
+      - Web Security
+      - Log Interpretation
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
-
-# Experience
-experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
-  
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
-
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  Final-year CSE student excelling in Machine Learning and Android development. Mastered 
+  TensorFlow, Python, and Kotlin through projects like MealDB Explorer and RoverVision, leveraging 
+  ML algorithms, Jetpack Compose, and MVVM for innovative, user-centric solutions. Seeking roles 
+  to advance AI-driven technologies.
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: MealDB Explorer
+    link: github.com/prathamngundikere/MealDB-Explorer
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Android app using Jetpack Compose and MealDB API, integrating Machine Learning for 
+      personalized recipe suggestions. Built with MVVM architecture and Room Database for 
+      efficient data handling, ensuring a seamless and visually appealing user experience.
+    skill: Android SDK, MVVM, Room Database, Kotlin, Android Jetpack, Machine Learning
+  - title: RoverVision 
+    link: github.com/prathamngundikere/RoverVision
+    details: |
+      Android app cataloging NASA’s Curiosity Rover photos per Martian sol, using Jetpack Compose
+      and ML-driven image analysis. Integrated Room Database for offline access, 
+      showcasing robust data management and user-friendly design.
 
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+# Certification
+certification:
+  - Advanced Learning Algorithms
+Issued by DeepLearning.AI, Aug 2025
+Credential ID: L9QGWZCF54BB
+Skills: TensorFlow, Machine Learning, Machine Learning Algorithms, Supervised Learning, Logistic Regression, Linear Regression
+Machine Learning Specialization
+Issued by Stanford Online, Aug 2025
+Credential ID: LPZ8Q0YQ22WF
+Skills: Machine Learning Algorithms, Machine Learning, Supervised Learning, Unsupervised Learning, TensorFlow
+Supervised Machine Learning: Regression and Classification
+Issued by DeepLearning.AI, Aug 2025
+Credential ID: UGX3B249CVAC
+Skills: Machine Learning, Matplotlib, Logistic Regression, Supervised Learning, TensorFlow, Linear Regression, Machine Learning Algorithms, NumPy, Python
+Unsupervised Learning, Recommenders, Reinforcement Learning
+Issued by DeepLearning.AI, Aug 2025
+Credential ID: Z7MW7QHZU3MQ
+Skills: Machine Learning Algorithms, Machine Learning, Unsupervised Learning
+Deloitte Australia - Cyber Job Simulation
+Issued by Forage, Jul 2025
+Credential ID: hTmsCgokAhwqL5n5t
+Skills: Log Interpretation, Computer Networks, Web Security
+Deloitte Australia - Data Analytics Job Simulation
+Issued by Forage, Jul 2025
+Credential ID: XkWbKjmmrmLq4uKXz
+Deloitte Australia - Technology Job Simulation
+Issued by Forage, Jul 2025
+Credential ID: NHciCZHiXhZ8tR4uz
+Skills: Data Structures
+Introduction to LLM
+Issued by Google, Feb 2025
+Credential ID: 14109053
+Skills: NumPy, Python
+The Complete Android 14 & Kotlin Development Masterclass
+Issued by Udemy, Jan 2025
+Credential ID: 0004
+Skills: Android SDK, Android Jetpack, Android, Room Database, Firebase, Kotlin Coroutines, Android Studio, Databases, Android Development, MVVM, Kotlin
